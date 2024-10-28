@@ -4,6 +4,7 @@
 
 ---
 ![In-game Screenshot](screenshots/1.png)
+
 ## Features
 **Work in progress!** The actual tool may have more features than listed here. Updates will be provided in the near future.
 
@@ -69,10 +70,18 @@ Automate shooting with specific settings.
 - Instant synchronization
 - Auto-load when starting game
 
+### Unlocker Tool
+Unlock a range of in-game features with ease.
+
+- Set any **prestige level** or **player level**
+- Access any **camo** for all weapons
+- Max out weapon levels and attachments
+- Full customization and **unlock-all** option
+
 ### Shadow Ban Bypass
 Play without interruptions with HWID spoofer / Shadow ban bypass included.
 
-- **Easy Spoof & Play** 
+- **Easy Spoof & Play**
 
 ### Supported Platforms
 
@@ -87,8 +96,6 @@ Play without interruptions with HWID spoofer / Shadow ban bypass included.
 1. **Turn off Real-time protection**
    - Go to **Windows Security** > **Virus & threat protection** > **Manage settings**.
    - Toggle off **Real-time protection**.
-   
-
 
 2. **Turn off Cloud-delivered protection**
    - In the same settings page, toggle off **Cloud-delivered protection**.
