@@ -100,4 +100,6 @@ Play without interruptions with HWID spoofer / Shadow ban bypass included.
 > Note: Please turn off both settings for the tool to work as intended. Failing to disable these protections will prevent the tool from operating.
 
 In-game screenshots showing tool features are available below:
-![In-game Screenshot](screenshots/ingame.png)
+![In-game Screenshot](screenshots/1.png)
+![In-game Screenshot](screenshots/2.png)
+![In-game Screenshot](screenshots/3.png)
