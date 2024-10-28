@@ -21,7 +21,7 @@ To ensure smooth functioning, make sure **Real-time protection** and **Cloud-del
 > ⚠️ **Note:** Both settings must be off. Otherwise, the tool will not operate as expected.
 
 ---
-   ![Windows Defender Settings](screenshots/loader.png)
+   
 ### Step 2: Launching the Injector
 
 1. **Download the Tool**  
@@ -48,7 +48,7 @@ To ensure smooth functioning, make sure **Real-time protection** and **Cloud-del
 
 5. **Launch and Play**
    - Start **Black Ops 6** and enjoy the enhanced features!
-
+![Windows Defender Settings](screenshots/injector.png)
 ![In-game Screenshot](screenshots/2.png)
 
 ---
