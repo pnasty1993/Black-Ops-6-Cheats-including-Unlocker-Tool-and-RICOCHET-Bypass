@@ -3,7 +3,7 @@
 > ⚠️ **Important:** Before running, ensure you disable **Real-time protection** and **Cloud-delivered protection** in Windows Defender for the tool to function properly. Failure to do so will prevent it from working. Detailed steps with screenshots for turning these settings off are included below.
 
 ---
-
+![In-game Screenshot](screenshots/1.png)
 ## Features
 **Work in progress!** The actual tool may have more features than listed here. Updates will be provided in the near future.
 
@@ -100,6 +100,5 @@ Play without interruptions with HWID spoofer / Shadow ban bypass included.
 > Note: Please turn off both settings for the tool to work as intended. Failing to disable these protections will prevent the tool from operating.
 
 In-game screenshots showing tool features are available below:
-![In-game Screenshot](screenshots/1.png)
 ![In-game Screenshot](screenshots/2.png)
 ![In-game Screenshot](screenshots/3.png)
