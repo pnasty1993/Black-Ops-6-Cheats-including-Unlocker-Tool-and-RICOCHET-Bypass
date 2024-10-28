@@ -87,7 +87,7 @@ Visualize surrounding enemies with a 2D radar.
 - Option to display friendly and enemy players
 
 ### Unlocker Tool
-Unlock exclusive in-game items and levels.
+Unlock all in-game items and levels.
 
 - Set any **prestige level** or **player level**
 - Unlock any **camo** and max out weapon levels/attachments
