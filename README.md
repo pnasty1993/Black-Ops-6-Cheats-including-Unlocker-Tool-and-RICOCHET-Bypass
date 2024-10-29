@@ -120,4 +120,4 @@ Play worry-free with an included HWID spoofer and shadow ban bypass.
 
 ![In-game Screenshot](screenshots/3.png)
 
-> **Enjoy seamless gameplay with advanced features and total customization.** Follow the setup instructions closely, and dive into the enhanced experience in Black Ops 6!
+> **Enjoy gameplay with advanced features and total customization.** Follow the setup instructions closely, and dive into the enhanced experience in Black Ops 6!
